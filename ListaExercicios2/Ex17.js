@@ -10,7 +10,7 @@ let maior = false;
 
 for (i = 0; i < 9; i++) {
   nomes[i] = prompt("Digite seu nome: ");
-  idades[i] = prompt("Digite sua idade: ");
+  idades[i] = parseInt(prompt("Digite sua idade: "));
 }
 
 for (let x = 0; x < idades.length; x++) {
