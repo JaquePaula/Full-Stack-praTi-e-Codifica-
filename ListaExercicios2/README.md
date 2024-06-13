@@ -1,5 +1,5 @@
 
-# Lista de Tarefas 1
+# Lista de Tarefas 2
 
 Este repositório contém uma série de exercícios destinados a fortalecer habilidades em JavaScript, para o Bootcamp FullStack Java da Codifica Edu. 
 
